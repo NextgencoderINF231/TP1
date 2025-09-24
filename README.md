@@ -76,10 +76,10 @@ Il est recommandé de tester avec de petits jeux de données avant d’utiliser 
  Membres du groupe
 
 
-NGOUGO TZONEU WILFRIED — 24G2242
-Kenmogne Tagne Ange Beneditte — 
+NGOUGO TZONEU WILFRIED—24G2242
+Kenmogne Tagne Ange Beneditte—
 24G2075
-Ambassa Mfegue Gabriella Fidélité — 
+Ambassa Mfegue Gabriella Fidélité—
 24F2667
 Minkam Tedonfoue Kelly Dolviane— 
 24G2883
