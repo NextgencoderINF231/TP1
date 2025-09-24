@@ -76,14 +76,19 @@ Il est recommandé de tester avec de petits jeux de données avant d’utiliser 
  Membres du groupe
 
 
-NGOUGO TZONEU WILFRIED—24G2242
-Kenmogne Tagne Ange Beneditte—
+NGOUGO TZONEU WILFRIED — 24G2242
+
+Kenmogne Tagne Ange Beneditte —
 24G2075
-Ambassa Mfegue Gabriella Fidélité—
+
+Ambassa Mfegue Gabriella Fidélité —
 24F2667
-Minkam Tedonfoue Kelly Dolviane— 
+
+Minkam Tedonfoue Kelly Dolviane — 
 24G2883
-Noutcha Ngatcha Justin Miguel— 
+
+Noutcha Ngatcha Justin Miguel — 
 24G2055
+
 Kwayep Ngapet Carelle — 24F2676# TP1
 Premier TP pour l'UE INF231
